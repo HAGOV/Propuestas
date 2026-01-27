@@ -12,10 +12,11 @@ Este repositorio nace para darle plataforma a las discusiones que ignora el capi
 ---
 
 ## 🛠 Por qué Git y cómo colaborar
-Esto es abierto, para todos y todas. Si tenés un dato, una idea de ley que valga la pena o una propuesta compartila.
-Esto no se trata de promover el "socialismo", sino de movilizar a la clase trabajadora con políticas de servicios públicos y un materialismo que nos sirva al final del día. Se trata de darle voz a los secturoes que nadie representa de verdad. 
+Esto es abierto. Público, para todos y todas. Si tenés un dato, una idea, cualquier cosa que creas que valga la pena (En lo posible con datos chequeables), compartilo.
 
-Sin vueltas, no queremos pedir la revolución total para mañana, queremos leyes específicas hoy (En lo posible con datos chequeables).
+Esto no se trata de promover el "socialismo", sino de movilizar a la clase trabajadora con políticas de servicios públicos y un materialismo que nos sirva al final del día. 
+
+Por sobre todas las cosas, darle voz a los secturoes que nadie representa de verdad. Sin vueltas, no queremos pedir una revolución para mañana, queremos leyes específicas hoy.
 
 Si queres colaborar
 1. **Hacé un Fork**
