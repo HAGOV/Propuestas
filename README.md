@@ -32,7 +32,7 @@ Si queres colaborar
 * ¿ Vale la pena una vida de sacrificio si al final de cuentas nos endeudamos con la ilusión de vivir mejor ?
 
 ### 🏠 [Vivienda y Alquiler](./VIVIENDA.md)
-* **La trampa del alquiler:** Por qué hoy ser dueño es un privilegio de herencia y no un fruto del esfuerzo.
+* **Alquileres:** ¿ Por qué hoy por hoy convertirse en dueño es un privilegio heredado y no fruto del esfuerzo ?
 * **Datos del INDEC:**  El 70% de los Argentinos cobra un sueldo por debajo de los 1.600.000 pesos. Osea el 80% de los Argentinos no llega a cubrir la canasta básica. Si sos el único ingreso de una familia y cobras menos de esa plata, sos pobre.
 
 ### 🌏 [Geopolítica y Soberanía](./SOBERANIA.md)
