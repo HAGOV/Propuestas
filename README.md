@@ -32,7 +32,8 @@ Si queres colaborar
 * ¿ Vale la pena una vida de sacrificio si al final de cuentas nos endeudamos con la ilusión de vivir mejor ?
 
 ### 🏠 [Vivienda y Alquiler](./VIVIENDA.md)
-* **Alquileres:** ¿ Por qué hoy por hoy convertirse en dueño es un privilegio heredado y no fruto del esfuerzo ?
+* **Alquileres:** Los que deberían vivir del alquiler son los inquilinos, no los propietarios. Sus ganancias no pueden ser a costa de nuestras vidas tampoco.
+* ¿ Por qué hoy por hoy convertirse en dueño es un privilegio heredado y no fruto del esfuerzo ?
 * **Datos del INDEC:**  El 70% de los Argentinos cobra un sueldo por debajo de los 1.600.000 pesos. Osea el 80% de los Argentinos no llega a cubrir la canasta básica. Si sos el único ingreso de una familia y cobras menos de esa plata, sos pobre.
 
 ### 🌏 [Geopolítica y Soberanía](./SOBERANIA.md)
