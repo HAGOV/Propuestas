@@ -35,6 +35,8 @@ Habla con nosotros. Queremos escucharte.
 
 * **Una Paradoja Tecnológica:** Estamos en la era de la IA y la automatización, pero seguimos atados a jornadas de 8, 10 o 12 horas como si estuviéramos en la Revolución Industrial. La tecnología debería haber liberado nuestro tiempo para pasarlo con nuestras familias, si hoy producimos más en menos horas, ¿por qué esa ganancia de tiempo se la damos al dueño de la empresa y no al trabajador?
 
+* **La verdadera Batalla Cultural:** Hoy 27 de enero escuché el testimonio de Matias en Mar del Plata en el acto del presidente Javier Milei: "Vuelve la cultura del trabajo. Locales y hoteles todo llenos, todos felices. 3 Trabajos tengo y la estoy pasando excelente. No buscan laburos, quieren todo de arriba". Personas como Matias no tienen nada y construyen su identidad en torno a su única realidad, la explotación laboral. Tenemos que empezar a participar de la batalla cultural que instaló la derecha, nuestra propia batalla contra la cultura de la explotación.
+
 ### 🏠 [Vivienda y Alquiler](./VIVIENDA.md)
 * **Alquileres:** Los que deberían vivir del alquiler son los inquilinos, no los propietarios.
 
