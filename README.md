@@ -37,7 +37,7 @@ Esto es abierto. Si tenés un dato, una ley que valga la pena o una propuesta pa
 ---
 
 ## ✊ Sobre la Militancia y el Poder
-No somos militantes electorales ni aplaudidores de dirigentes que viven en otra galaxia.
+No somos militantes electorales ni aplaudidores de dirigentes que viven alejados del pueblo vacacionando en Brasil o Miami. Es momento de sentar una nueva base para la Militancia.
 
 * **El militante no tiene la culpa:** Basta de responsabilizar al que pone el lomo por los errores de una conducción que jamás le dio el volante. No nos hagamos cargo de chocar un auto que nunca manejamos. Bancamos los trapos siempre, pero si la dirigencia nos da la espalda, nos toca a nosotros responder.
 * **Formación para conducir:** Queremos que la formación no sea para aprender a repetir lo que dicen los de arriba, sino para construir canales reales donde la base tenga capacidad de conducción. Cualquiera podría ser la cabeza de nuestro partido.
