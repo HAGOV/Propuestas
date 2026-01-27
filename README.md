@@ -1,6 +1,6 @@
-# 📍 Proyecto Argentina Grande: Código para la Soberanía Humana
+# 📍 Proyecto Argentina Grande, Código: Soberanía Humana
 
-> "Basta de priorizar la renta sobre la vida."
+> "Basta de priorizar ganancias por sobre la vida."
 
 ---
 
@@ -11,7 +11,7 @@ Este repositorio nace para darle plataforma a las discusiones que ignora el capi
 
 ---
 
-## 📂 Ejes de la Discusión (Lo que no te quieren contar)
+## 📂 Ejes de la Discusión
 
 ### 🕒 [Trabajo y Tiempo](./TRABAJO_Y_TIEMPO.md)
 * **El Fraude del Libre Mercado:** Por qué laburamos más horas que nuestros abuelos pero somos más pobres ? Por qué hay record de ganancias para las empresas pero no lo vemos traducido en poder adquisitivo para los trabajadores ?
@@ -27,7 +27,7 @@ Este repositorio nace para darle plataforma a las discusiones que ignora el capi
 
 ---
 
-## 🛠 Cómo colaborar (Sin vueltas)
+## 🛠 Cómo colaborar
 Esto es abierto. Si tenés un dato, una ley que valga la pena o una propuesta para que no nos sigan esquilmando:
 
 1. **Hacé un Fork.**
@@ -36,7 +36,7 @@ Esto es abierto. Si tenés un dato, una ley que valga la pena o una propuesta pa
 
 ---
 
-## ✊ Sobre la Militancia y el Poder
+## ✊ Sobre la Militancia y Poder
 No somos militantes electorales ni aplaudidores de dirigentes que viven alejados del pueblo vacacionando en Brasil o Miami. Es momento de sentar una nueva base para la Militancia.
 
 * **Basta de responsabilizar al militante de los errores de la dirigencia:** Si, el dirigente pone la cara, pero no pueden responsabilizar al que pone el lomo en la calle, no somos responsables de una conducción que jamás nos dió el volante. Bancamos los trapos, pero si la dirigencia nos da la espalda, nosotros se la daremos a ella. Somos tan importantes como quien nos dirige. 
