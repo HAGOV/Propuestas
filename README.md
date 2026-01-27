@@ -57,8 +57,8 @@ No venimos a imponer una moral de laboratorio. Entendemos que la cultura es el t
 ## ✊ Sobre la Militancia y el Poder
 No somos militantes electorales ni aplaudidores de dirigentes que vacacionan en Miami mientras el pueblo sufre. 
 
-* **No somos responsables del choque:** El dirigente pone la cara, pero no puede culpar al que pone el lomo. No nos hacemos cargo de una conducción que jamás nos dio el volante. Bancamos los trapos, pero si la dirigencia nos da la espalda, nosotros se la daremos a ella.
 * **Formación para conducir:** No queremos repetir consignas de arriba. Queremos que cualquiera pueda ser la cabeza del movimiento, como una **hydra**.
+* **No somos responsables del choque:** El dirigente pone la cara, pero no puede culpar al que pone el lomo. No nos hacemos cargo de una conducción que jamás nos dio el volante. Bancamos los trapos, pero si la dirigencia nos da la espalda, nosotros se la daremos a ella.
 * **Fuera del margen:** En cuanto el "hacer" se sale del aplauso, los de arriba levantan la ceja. Que la levanten. 
 
 ---
