@@ -67,6 +67,13 @@ No heredamos nada de nadie. Queremos un país mejor para nuestros hijos. No pedi
 
 ---
 
+## 🛡️ Dar la Batalla Cultural
+No venimos a imponer una moral de laboratorio ni a mirar por encima del hombro a nadie. Entendemos que la cultura es el terreno donde se gana o se pierde la soberanía.
+
+* **Valores y Fe:** Tomamos la tesis de Lula: el progresismo y el socialismo fallaron muchas veces por no entender la religión y los valores en los que la gente cree. No se puede construir un país ignorando la fe de su pueblo. La batalla cultural no es burlarse de las creencias ajenas, sino demostrar que el sistema actual es el verdadero enemigo de la familia y la comunidad.
+* **El Sentido Común como trinchera:** La batalla cultural es recuperar palabras como "esfuerzo", "meritocracia real" y "familia" de las manos de quienes las usan para justificar el hambre. 
+* **Contra el Individualismo:** El sistema nos quiere solos frente a la pantalla. Nosotros nos queremos organizados en el barrio, en el club y en la unidad básica del siglo XXI: la red colaborativa.
+
 ## 💬 Comentario final
 *No nos interesa convencer a los que ya tienen la vida resuelta o defienden la billetera de sus jefes para garantizar su comodidad. Queremos organizarnos. El Pueblo Argentino.*
 ---
