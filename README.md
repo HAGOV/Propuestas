@@ -58,7 +58,7 @@ No venimos a imponer una moral de laboratorio. Entendemos que la cultura es el t
 No somos militantes electorales ni aplaudidores de dirigentes que vacacionan en Miami mientras el pueblo sufre. 
 
 * **Formación para conducir:** No queremos repetir consignas de arriba. Aprendemos de nuestros errores y queremos que cualquiera pueda ser la cabeza del movimiento, como una **hydra**. No para que sea "reemplazable" en el sentido de no tener peso, sino de justamente ganar ese peso y concentrarlo en la masa que conformamos.
-* **No somos responsables del choque:** El dirigente pone la cara, pero no puede culpar al que pone el lomo. No podemos y no deberíamos haceros cargo de una conducción que jamás nos dio el volante.
+* **No somos responsables del choque:** En cuanto a anteriores gestiones: Los dirigentes ponen la cara, pero no pueden culparnos a los que ponemos el lomo. No podemos haceros cargo de una conducción que jamás nos dio el volante.
 * **Fuera del margen:** En cuanto el "hacer" se sale del aplauso, los de arriba levantan la ceja. Que la levanten. 
 
 ---
