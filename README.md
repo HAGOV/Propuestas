@@ -30,7 +30,7 @@ Hablá con nosotros. Queremos escucharte.
 
 ## 📂 Ejes de la Discusión
 
-### 🕒 [Trabajo y Tiempo](./TRABAJO_Y_TIEMPO.md)
+### 🕒 [Trabajo y Tiempo](./TRABAJO.md)
 * **El Fraude del Libre Mercado:** ¿Por qué laburamos más horas que nuestros abuelos pero somos más pobres? ¿Por qué hay récords de ganancias corporativas que nunca llegan al bolsillo del trabajador? Discutámoslo en serio.
 * **Una Paradoja Tecnológica:** Estamos en la era de la IA, pero seguimos atados a jornadas de 12 horas como en la Revolución Industrial. Si hoy producimos más en menos tiempo, ¿por qué esa ganancia se la queda el dueño y no el que pone el cuerpo?
 * **La verdadera Batalla Cultural:** Tomamos el testimonio de Matías (Mar del Plata): *"3 trabajos tengo y la estoy pasando excelente. No buscan laburo, quieren todo de arriba"*. Personas como Matías, ante la falta de futuro, construyen su identidad en torno a la **explotación**. Nuestra batalla es contra esa cultura del sacrificio inútil.
