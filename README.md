@@ -64,7 +64,7 @@ No somos militantes electorales ni aplaudidores de dirigentes que vacacionan en 
 ---
 
 ## 💬 Comentario final
-*No nos interesa convencer a los que defienden la billetera de sus jefes por comodidad. Queremos organizarnos nosotros. El Pueblo Argentino.*
+*El "peor momento del peronismo" se tiene que traducir en un cambio, en adaptación. Si siguen creyendo que hay una irremediable línea divisora entre progresismo y peronismo, lo único que vamos a lograr va a ser discriminar cuando ambos movimientos se tratan de lo contrario.*
 
 ---
 **Status:** `v0.1.0-alpha` | **Build:** `Soberanía` | **Maintainer:** `HAGOV`
