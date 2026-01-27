@@ -11,6 +11,17 @@ Este repositorio nace para darle plataforma a las discusiones que ignora el capi
 
 ---
 
+## 🛠 Por qué Git y cómo colaborar
+Esto es abierto. Si tenés un dato, una idea de ley que valga la pena o una propuesta compartila.
+Esto no se trata de promover el "socialismo", sino de movilizar a la clase trabajadora con políticas de servicios públicos y un materialismo que nos sirva al final del día. Se trata de darle voz a los secturoes que nadie representa de verdad. 
+
+Si queres colaborar
+1. **Hacé un Fork**
+2. **Subí tu propuesta** Sin vueltas, en lo posible con datos chequeables.
+3. **Abrí Issues para debatir** 
+
+---
+
 ## 📂 Ejes de la Discusión
 
 ### 🕒 [Trabajo y Tiempo](./TRABAJO_Y_TIEMPO.md)
@@ -24,16 +35,6 @@ Este repositorio nace para darle plataforma a las discusiones que ignora el capi
 * **La Liquidación de la Patria:** Mientras la Patagonia arde, el gobierno de Javier Milei mira para otro lado dejando que se queme nuestro futuro, apurados por entregar nuestra soberanía en Tierra del Fuego a los Estados Unidos.
 * **Traición a la Patria:** El establecimiento de bases de Estados Unidos en Tierra del Fuego no es una "inversión", es una alfombra roja al control extranjero sobre la Antártida y nuestros recursos marítimos.
 * **La Ultima Entrega:** Recuperar lo propio es la única forma de no ser una colonia de servicios. Es momento de oponerse a la entrega de nuestra soberanía.
-
----
-## 🛠 Por qué Git y cómo colaborar
-Esto es abierto. Si tenés un dato, una idea de ley que valga la pena o una propuesta compartila.
-Esto no se trata de promover el "socialismo", sino de movilizar a la clase trabajadora con políticas de servicios públicos y un materialismo que nos sirva al final del día. Se trata de darle voz a los secturoes que nadie representa de verdad. 
-
-Si queres colaborar
-1. **Hacé un Fork**
-2. **Subí tu propuesta** Sin vueltas, en lo posible con datos chequeables.
-3. **Abrí Issues para debatir** 
 
 ---
 
