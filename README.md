@@ -1,10 +1,10 @@
-# 📍 Proyecto Argentina Grande, Código: Soberanía Humana
+# 📍 Proyecto Argentina Grande
 
 > "Basta de priorizar ganancias por sobre la vida."
 
 ---
 
-## 🚩 El inicio.
+## 🚩 El inicio
 Este repositorio nace para darle plataforma a las discusiones que ignora el capitalismo tardío. Basta de vivir para trabajar mientras la productividad que generamos se la lleva la minoría mas peligrosa del mundo, los millonarios.
 
 **Basta de "coyunturas":** Esto es un modelo. Queremos una vida donde el tiempo valga más que un saldo bancario de una multinacional.
