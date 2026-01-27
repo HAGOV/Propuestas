@@ -5,7 +5,8 @@
 ---
 
 ## 🚩 El inicio
-Este repositorio nace para darle plataforma a las discusiones que ignoran los partidos ya existentes. Hablar de las consecuencias inmediatas del capitalismo tardío con el proposito de ponerle fin a la idea de vivir para trabajar mientras la productividad que generamos se la lleva la minoría mas peligrosa del mundo, los millonarios.
+Este repositorio nace para darle plataforma a las discusiones que ignoran los partidos ya existentes. 
+Hablar de las consecuencias inmediatas del capitalismo tardío con el proposito de ponerle fin a la idea de vivir para trabajar mientras la productividad que generamos se la lleva la minoría mas peligrosa del mundo, los millonarios.
 
 **Basta de "coyunturas":** Esto es un modelo. Queremos una vida donde el tiempo valga más que un saldo bancario de una multinacional.
 
