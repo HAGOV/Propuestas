@@ -74,7 +74,7 @@ No venimos a imponer nuestra moral. Entendemos que la cultura es el terreno dond
 
 * **La trampa del Conservadurismo:** La estrategia de la derecha es la reafirmación de valores pasados de época por miedo al cambio, nos quieren atados a un modelo de mundo que ya no existe para mantener en flote su "mercado". Nuestra tarea es reafirmar los valores que nos encaminan al futuro: Que el esfuerzo tenga recompensa real, que la tecnología nos devuelva tiempo y que la soberanía no se negocie con NADIE.
 
-* **Creer para Hacer:** Si discutimos estos valores en cada rincón es porque creemos en algo. **La batalla cultural es la disputa por qué creencias van a regir nuestro futuro**, el **sálvese quien pueda** o la de la **Hacer Argentina Grande** ?
+* **Creer para Hacer:** Si discutimos estos valores en cada rincón es porque creemos en algo. ***La batalla cultural es la disputa por qué creencias van a regir nuestro futuro***, el **sálvese quien pueda** o la de la **Hacer Argentina Grande** ?
 
 * **Contra el Individualismo:** El sistema nos quiere solos frente a la pantalla. Nosotros nos queremos organizados en el barrio, en la plaza, en el club y en la unidad básica.
 
