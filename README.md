@@ -15,9 +15,11 @@ Este repositorio nace para darle plataforma a las discusiones que ignora el capi
 Esto es abierto, para todos y todas. Si tenés un dato, una idea de ley que valga la pena o una propuesta compartila.
 Esto no se trata de promover el "socialismo", sino de movilizar a la clase trabajadora con políticas de servicios públicos y un materialismo que nos sirva al final del día. Se trata de darle voz a los secturoes que nadie representa de verdad. 
 
+Sin vueltas, no queremos pedir la revolución total para mañana, queremos leyes específicas hoy (En lo posible con datos chequeables).
+
 Si queres colaborar
 1. **Hacé un Fork**
-2. **Subí tu propuesta** Sin vueltas, en lo posible con datos chequeables.
+2. **Subí tu propuesta**
 3. **Abrí Issues para debatir** 
 
 ---
