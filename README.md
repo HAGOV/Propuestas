@@ -18,12 +18,13 @@ Esto no se trata de promover el "socialismo", sino de movilizar a la clase traba
 
 Por sobre todas las cosas, darle voz a los secturoes que nadie representa de verdad. Sin vueltas, no queremos pedir una revolución para mañana, queremos leyes específicas hoy.
 
-Si queres colaborar
 1. **Hacé un Fork**
 
 2. **Subí tu propuesta**
 
-3. **Abrí Issues para debatir** 
+3. **Abrí Issues para debatir**
+
+Habla con nosotros. Queremos escucharte.
 
 ---
 
