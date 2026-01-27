@@ -14,7 +14,7 @@ Buscamos exponer las consecuencias inmediatas del capitalismo tardío con el pro
 ---
 
 ## 🛠 Por qué Git y cómo colaborar
-Esto es abierto. Público, para todos y todas. Si tenés un dato, una idea o una propuesta (en lo posible con datos chequeables), compartilo.
+Esto es abierto. Público, para todos y todas. Si tenés un dato, una idea o propuesta (en lo posible con datos chequeables) lo podes compartir.
 
 No se trata de promover el "socialismo" de manual, sino de movilizar a la clase trabajadora con políticas de servicios públicos y un **materialismo cotidiano** que nos sirva al final del día. 
 
