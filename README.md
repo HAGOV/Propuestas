@@ -12,7 +12,7 @@ Este repositorio nace para darle plataforma a las discusiones que ignora el capi
 ---
 
 ## 🛠 Por qué Git y cómo colaborar
-Esto es abierto. Si tenés un dato, una idea de ley que valga la pena o una propuesta compartila.
+Esto es abierto, para todos y todas. Si tenés un dato, una idea de ley que valga la pena o una propuesta compartila.
 Esto no se trata de promover el "socialismo", sino de movilizar a la clase trabajadora con políticas de servicios públicos y un materialismo que nos sirva al final del día. Se trata de darle voz a los secturoes que nadie representa de verdad. 
 
 Si queres colaborar
