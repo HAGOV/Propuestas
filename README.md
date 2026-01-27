@@ -65,6 +65,6 @@ No somos herederos de nadie. Queremos un país mejor para nuestros hijos. No ped
 ---
 
 ## 💬 El cierre
-*No nos interesa convencer a los que ya tienen la vida resuelta o defienden la billetera de sus jefes porque les garantiza su comodidad. Nos estamos organizando nosotros. El Pueblo Argentino.*
+*No nos interesa convencer a los que ya tienen la vida resuelta o defienden la billetera de sus jefes para garantizar su comodidad. Queremos organizarnos. Queremos que vuelva a existir el Pueblo Argentino.*
 ---
 **Status:** `v0.1.0-alpha` | **Build:** `Soberanía-o-Nada` | **Maintainer:** `HAGOV`
