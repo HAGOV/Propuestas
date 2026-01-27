@@ -20,7 +20,9 @@ Por sobre todas las cosas, darle voz a los secturoes que nadie representa de ver
 
 Si queres colaborar
 1. **Hacé un Fork**
+
 2. **Subí tu propuesta**
+
 3. **Abrí Issues para debatir** 
 
 ---
