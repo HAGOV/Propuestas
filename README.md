@@ -35,8 +35,6 @@ Habla con nosotros. Queremos escucharte.
 
 * **Una Paradoja Tecnológica:** Estamos en la era de la IA y la automatización, pero seguimos atados a jornadas de 8, 10 o 12 horas como si estuviéramos en la Revolución Industrial. La tecnología debería haber liberado nuestro tiempo para pasarlo con nuestras familias, si hoy producimos más en menos horas, ¿por qué esa ganancia de tiempo se la damos al dueño de la empresa y no al trabajador?
 
-¿ Vale la pena una vida de sacrificio si al final de cuentas nos endeudamos con la ilusión de vivir mejor ?
-
 ### 🏠 [Vivienda y Alquiler](./VIVIENDA.md)
 * **Alquileres:** Los que deberían vivir del alquiler son los inquilinos, no los propietarios.
 
