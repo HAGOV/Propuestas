@@ -25,7 +25,7 @@ Si queres colaborar
 ## 📂 Ejes de la Discusión
 
 ### 🕒 [Trabajo y Tiempo](./TRABAJO_Y_TIEMPO.md)
-* **El Fraude del Libre Mercado:** Por qué laburamos más horas que nuestros abuelos pero somos más pobres ? Por qué hay record de ganancias para las empresas pero no lo vemos traducido en poder adquisitivo para los trabajadores ?
+* **El Fraude del Libre Mercado:** Políticas de hoy en día no te quieren decir por qué laburamos más horas que nuestros abuelos pero somos más pobres que ellos en ese entonces o por qué hay record de ganancias para las empresas pero no lo vemos traducido en poder adquisitivo para los trabajadores. No nos quedemos con solo poner el tema sobre la mesa, discutamoslo en serio. ¿ Vale la pena una vida de sacrificio si al final de cuentas vamos a terminar endeudados con la ilusión de vivir mejor ?
 
 ### 🏠 [Vivienda y Alquiler](./VIVIENDA.md)
 * **La trampa del alquiler:** Por qué hoy ser dueño es un privilegio de herencia y no un fruto del esfuerzo.
