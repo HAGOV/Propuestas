@@ -26,13 +26,14 @@ Este repositorio nace para darle plataforma a las discusiones que ignora el capi
 * **La Ultima Entrega:** Recuperar lo propio es la única forma de no ser una colonia de servicios. Es momento de oponerse a la entrega de nuestra soberanía.
 
 ---
+## 🛠 Por qué Git y cómo colaborar
+Esto es abierto. Si tenés un dato, una idea de ley que valga la pena o una propuesta compartila.
+Esto no se trata de promover el "socialismo", sino de movilizar a la clase trabajadora con políticas de servicios públicos y un materialismo que nos sirva al final del día. Se trata de darle voz a los secturoes que nadie representa de verdad. 
 
-## 🛠 Cómo colaborar
-Esto es abierto. Si tenés un dato, una ley que valga la pena o una propuesta para que no nos sigan esquilmando:
-
-1. **Hacé un Fork.**
-2. **Subí tu propuesta:** Sin vueltas, en lo posible con datos chequeables.
-3. **Abrí un Issue:** Si querés debatir un tema específico, hacelo ahí.
+Si queres colaborar
+1. **Hacé un Fork**
+2. **Subí tu propuesta** Sin vueltas, en lo posible con datos chequeables.
+3. **Abrí Issues para debatir** 
 
 ---
 
@@ -49,6 +50,5 @@ No somos herederos de nadie. Queremos un país mejor para nuestros hijos. No ped
 
 ## 💬 El cierre
 *No nos interesa convencer a los que ya tienen la vida resuelta o defienden la billetera de sus jefes porque les garantiza su comodidad. Nos estamos organizando nosotros. El Pueblo Argentino.*
-
 ---
 **Status:** `v0.1.0-alpha` | **Build:** `Soberanía-o-Nada` | **Maintainer:** `HAGOV`
