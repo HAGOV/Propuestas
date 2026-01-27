@@ -55,7 +55,7 @@ Habla con nosotros. Queremos escucharte.
 
 ---
 
-## ✊ Sobre la Militancia y Poder
+## ✊ Sobre la Militancia y el Poder
 No somos militantes electorales ni aplaudidores de dirigentes que viven alejados del pueblo vacacionando en Brasil o Miami. Es momento de sentar una nueva base para la Militancia. 
 No heredamos nada de nadie. Queremos un país mejor para nuestros hijos. No pedimos que se deje de laburar sino que todos puedan laburar menos, vivir mejor y así producir más.
 
