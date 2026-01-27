@@ -5,80 +5,66 @@
 ---
 
 ## 🚩 El inicio
-Este repositorio nace para darle plataforma a las discusiones que ignoran los partidos ya existentes.
+Este repositorio nace para darle plataforma a las discusiones que ignoran los partidos ya existentes. 
 
-Hablar de las consecuencias inmediatas del capitalismo tardío con el proposito de ponerle fin a la idea de vivir para trabajar mientras la productividad que generamos se la lleva la minoría mas peligrosa del mundo, los millonarios.
+Buscamos exponer las consecuencias inmediatas del capitalismo tardío con el propósito de ponerle fin a la idea de **vivir para trabajar**, mientras la productividad que generamos se la lleva la minoría más peligrosa del mundo: los millonarios.
 
-**Basta de "coyunturas":** Esto es un modelo. Queremos una vida donde el tiempo valga más que un saldo bancario de una multinacional.
+**Basta de "coyunturas":** Esto es un modelo. Queremos una vida donde el tiempo valga más que el saldo bancario de una multinacional.
 
 ---
 
 ## 🛠 Por qué Git y cómo colaborar
-Esto es abierto. Público, para todos y todas. Si tenés un dato, una idea, cualquier cosa que creas que valga la pena (En lo posible con datos chequeables), compartilo.
+Esto es abierto. Público, para todos y todas. Si tenés un dato, una idea o una propuesta (en lo posible con datos chequeables), compartilo.
 
-Esto no se trata de promover el "socialismo", sino de movilizar a la clase trabajadora con políticas de servicios públicos y un materialismo que nos sirva al final del día. 
+No se trata de promover el "socialismo" de manual, sino de movilizar a la clase trabajadora con políticas de servicios públicos y un **materialismo cotidiano** que nos sirva al final del día. 
 
-Por sobre todas las cosas, darle voz a los secturoes que nadie representa de verdad. Sin vueltas, no queremos pedir una revolución para mañana, queremos leyes específicas hoy.
+Queremos darle voz a los sectores que nadie representa de verdad. Sin vueltas: no pedimos una revolución para mañana, exigimos leyes específicas hoy.
 
 1. **Hacé un Fork**
-
 2. **Subí tu propuesta**
-
 3. **Abrí Issues para debatir**
 
-Habla con nosotros. Queremos escucharte.
+Hablá con nosotros. Queremos escucharte.
 
 ---
 
 ## 📂 Ejes de la Discusión
 
 ### 🕒 [Trabajo y Tiempo](./TRABAJO_Y_TIEMPO.md)
-* **El Fraude del Libre Mercado:** Políticas de hoy en día no te quieren decir por qué laburamos más horas que nuestros abuelos pero somos más pobres que ellos en ese entonces o por qué hay record de ganancias para las empresas pero no lo vemos traducido en poder adquisitivo para los trabajadores. No nos quedemos con solo poner el tema sobre la mesa, discutamoslo en serio.
-
-* **Una Paradoja Tecnológica:** Estamos en la era de la IA y la automatización, pero seguimos atados a jornadas de 8, 10 o 12 horas como si estuviéramos en la Revolución Industrial. La tecnología debería haber liberado nuestro tiempo para pasarlo con nuestras familias, si hoy producimos más en menos horas, ¿por qué esa ganancia de tiempo se la damos al dueño de la empresa y no al trabajador?
-
-* **La verdadera Batalla Cultural:** Escribo esto basandome en el testimonio de Matias, en el acto del Presidente Javier Milei en Mar del Plata: "Vuelve la cultura del trabajo. Locales y hoteles todo llenos, todos felices. 3 Trabajos tengo y la estoy pasando excelente. No buscan laburos, quieren todo de arriba". Personas como Matias no tienen nada y construyen su identidad en torno a su única realidad, la explotación laboral. Tenemos que empezar a participar de la batalla cultural que instaló la derecha, nuestra propia batalla contra la cultura de la explotación.
+* **El Fraude del Libre Mercado:** ¿Por qué laburamos más horas que nuestros abuelos pero somos más pobres? ¿Por qué hay récords de ganancias corporativas que nunca llegan al bolsillo del trabajador? Discutámoslo en serio.
+* **Una Paradoja Tecnológica:** Estamos en la era de la IA, pero seguimos atados a jornadas de 12 horas como en la Revolución Industrial. Si hoy producimos más en menos tiempo, ¿por qué esa ganancia se la queda el dueño y no el que pone el cuerpo?
+* **La verdadera Batalla Cultural:** Tomamos el testimonio de Matías (Mar del Plata): *"3 trabajos tengo y la estoy pasando excelente. No buscan laburo, quieren todo de arriba"*. Personas como Matías, ante la falta de futuro, construyen su identidad en torno a la **explotación**. Nuestra batalla es contra esa cultura del sacrificio inútil.
 
 ### 🏠 [Vivienda y Alquiler](./VIVIENDA.md)
-* **Alquileres:** Los que deberían vivir del alquiler son los inquilinos, no los propietarios.
-
-* ¿ Por qué hoy por hoy convertirse en dueño es un privilegio heredado y no fruto del esfuerzo ?
-
-* **Datos del INDEC:**  El 70% de los Argentinos cobra un sueldo por debajo de los 1.600.000 pesos. Osea el 80% de los Argentinos no llega a cubrir la canasta básica. Si sos el único ingreso de una familia y cobras menos de esa plata, sos pobre.
+* **Alquileres:** Los que deberían vivir del alquiler son los inquilinos (en sus casas), no los rentistas de su esfuerzo. ¿Por qué ser dueño es un privilegio heredado y no el fruto del trabajo?
+* **Datos del INDEC:** El 80% de los argentinos no llega a cubrir la canasta básica. Si sos el único ingreso de una familia y cobrás menos de $1.600.000, el sistema ya decidió que sos pobre.
 
 ### 🌏 [Geopolítica y Soberanía](./SOBERANIA.md)
-* **La Liquidación de la Patria:** Mientras la Patagonia arde, el gobierno de Javier Milei mira para otro lado dejando que se queme nuestro futuro, apurados por entregar nuestra soberanía en Tierra del Fuego a los Estados Unidos.
-
-* **Traición a la Patria:** El establecimiento de bases de Estados Unidos en Tierra del Fuego no es una "inversión", es una alfombra roja al control extranjero sobre la Antártida y nuestros recursos marítimos.
-
-* **La Ultima Entrega:** Recuperar lo propio es la única forma de no ser una colonia de servicios. Es momento de oponerse a la entrega de nuestra soberanía.
-
----
-
-## ✊ Sobre la Militancia y el Poder
-No somos militantes electorales ni aplaudidores de dirigentes que viven alejados del pueblo vacacionando en Brasil o Miami. Es momento de sentar una nueva base para la Militancia. 
-No heredamos nada de nadie. Queremos un país mejor para nuestros hijos. No pedimos que se deje de laburar sino que todos puedan laburar menos, vivir mejor y así producir más.
-
-* **Basta de responsabilizar al militante de los errores de la dirigencia:** Si, el dirigente pone la cara, pero no pueden responsabilizar al que pone el lomo en la calle, no somos responsables de una conducción que jamás nos dió el volante. Bancamos los trapos, pero si la dirigencia nos da la espalda, nosotros se la daremos a ella. Somos tan importantes como quien nos dirige. 
-
-* **Formación para conducir:** Queremos que la formación no sea para aprender a repetir lo que nos dicen de arriba, sino para construir canales reales donde todos ganemos capacidad de conducción. Cualquiera podría ser la cabeza del movimiento, como una hydra.
-
-* **Fuera del margen:** Sabemos que en cuanto el "hacer" se sale del margen de aplaudir, los de arriba levantan la ceja. Que la levanten. Si la opción es ser cómplices del silencio o armar nuestra propia plataforma, elegimos lo segundo.
+* **La Liquidación de la Patria:** Mientras la Patagonia arde y el gobierno mira para otro lado, se apuran a entregar Tierra del Fuego a los Estados Unidos.
+* **Traición a la Patria:** El puerto estadounidense en el sur no es "inversión", es una alfombra roja al control extranjero sobre la Antártida y nuestros mares. No somos una colonia de servicios.
 
 ---
 
 ## 🛡️ PARTICIPAR en la Batalla Cultural
-No venimos a imponer nuestra moral. Entendemos que la cultura es el terreno donde se asientan las creencias que mantienen a la sociedad en pie y lo respetamos. La idea de nuestro trabajo no es hacerse sobre esas creencias sino acompañarlas.
+No venimos a imponer una moral de laboratorio. Entendemos que la cultura es el terreno donde se asientan las creencias que mantienen a la sociedad en pie.
 
-* **La Fe es el motor:** Como dijo el Presidente Lula, "el socialismo falló por no entender la religión". Uno se levanta para ir a trabajar porque *cree*. Participar en la batalla cultural significa, en esencia, la **reafirmación** de esos valores que se convierten en las creencias que nos mueven y cómo adaptar esos valores a la gente, en lugar de adaptar a la gente.
+* **La Fe es el motor:** Como dijo Lula, *"el socialismo falló por no entender la religión"*. Uno se levanta para trabajar porque **cree**. Nuestra tarea es adaptar los valores a la gente, no la gente a los manuales.
+* **La trampa del Conservadurismo:** Su estrategia es reafirmar valores pasados de época por miedo al cambio. Nos quieren atados a un mundo que ya no existe para mantener a flote su "mercado". 
+* **Creer para Hacer:** La batalla cultural es la disputa por qué creencias van a regir nuestro futuro. Es elegir entre el **sálvese quien pueda** o **Hacer Argentina Grande**.
 
-* **La trampa del Conservadurismo:** La estrategia de la derecha es la reafirmación de valores pasados de época por miedo al cambio, nos quieren atados a un modelo de mundo que ya no existe para mantener en flote su "mercado". Nuestra tarea es reafirmar los valores que nos encaminan al futuro: Que el esfuerzo tenga recompensa real, que la tecnología nos devuelva tiempo y que la soberanía no se negocie con NADIE.
+---
 
-* **Creer para Hacer:** Si discutimos estos valores en cada rincón es porque creemos en algo. ***La batalla cultural es la disputa por qué creencias van a regir nuestro futuro***. Es elegir entre el ***sálvese quien pueda*** o ***Hacer Argentina Grande.***
+## ✊ Sobre la Militancia y el Poder
+No somos militantes electorales ni aplaudidores de dirigentes que vacacionan en Miami mientras el pueblo sufre. 
 
-* **Contra el Individualismo:** El sistema nos quiere solos frente a la pantalla. Nosotros nos queremos organizados en el barrio, en la plaza, en el club y en la unidad básica.
+* **No somos responsables del choque:** El dirigente pone la cara, pero no puede culpar al que pone el lomo. No nos hacemos cargo de una conducción que jamás nos dio el volante. Bancamos los trapos, pero si la dirigencia nos da la espalda, nosotros se la daremos a ella.
+* **Formación para conducir:** No queremos repetir consignas de arriba. Queremos que cualquiera pueda ser la cabeza del movimiento, como una **hydra**.
+* **Fuera del margen:** En cuanto el "hacer" se sale del aplauso, los de arriba levantan la ceja. Que la levanten. 
+
+---
 
 ## 💬 Comentario final
-*No nos interesa convencer a los que ya tienen la vida resuelta o defienden la billetera de sus jefes para garantizar su comodidad. Queremos organizarnos. El Pueblo Argentino.*
+*No nos interesa convencer a los que defienden la billetera de sus jefes por comodidad. Queremos organizarnos nosotros. El Pueblo Argentino.*
+
 ---
 **Status:** `v0.1.0-alpha` | **Build:** `Soberanía` | **Maintainer:** `HAGOV`
