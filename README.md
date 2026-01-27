@@ -52,15 +52,14 @@ Habla con nosotros. Queremos escucharte.
 ---
 
 ## ✊ Sobre la Militancia y Poder
-No somos militantes electorales ni aplaudidores de dirigentes que viven alejados del pueblo vacacionando en Brasil o Miami. Es momento de sentar una nueva base para la Militancia.
+No somos militantes electorales ni aplaudidores de dirigentes que viven alejados del pueblo vacacionando en Brasil o Miami. Es momento de sentar una nueva base para la Militancia. 
+No heredamos nada de nadie. Queremos un país mejor para nuestros hijos. No pedimos que se deje de laburar sino que todos puedan laburar menos, vivir mejor y así producir más.
 
 * **Basta de responsabilizar al militante de los errores de la dirigencia:** Si, el dirigente pone la cara, pero no pueden responsabilizar al que pone el lomo en la calle, no somos responsables de una conducción que jamás nos dió el volante. Bancamos los trapos, pero si la dirigencia nos da la espalda, nosotros se la daremos a ella. Somos tan importantes como quien nos dirige. 
 
 * **Formación para conducir:** Queremos que la formación no sea para aprender a repetir lo que nos dicen de arriba, sino para construir canales reales donde todos ganemos capacidad de conducción. Cualquiera podría ser la cabeza del movimiento, como una hydra.
 
 * **Fuera del margen:** Sabemos que en cuanto el "hacer" se sale del margen de aplaudir, los de arriba levantan la ceja. Que la levanten. Si la opción es ser cómplices del silencio o armar nuestra propia plataforma, elegimos lo segundo.
-
-No somos herederos de nadie. Queremos un país mejor para nuestros hijos. No pedimos que se deje de laburar sino que todos puedan laburar menos y vivir mejor.
 
 ---
 
