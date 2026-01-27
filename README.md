@@ -67,12 +67,16 @@ No heredamos nada de nadie. Queremos un país mejor para nuestros hijos. No pedi
 
 ---
 
-## 🛡️ Dar la Batalla Cultural
-No venimos a imponer una moral de laboratorio ni a mirar por encima del hombro a nadie. Entendemos que la cultura es el terreno donde se gana o se pierde la soberanía.
+## 🛡️ Dar la Batalla Cultural (La Reafirmación de lo Nuestro)
+No venimos a imponer nuestra moral. Entendemos que la cultura es el terreno donde se asientan las creencias que mantienen a la sociedad en pie.
 
-* **Valores y Fe:** Tomamos la tesis de Lula: el progresismo y el socialismo fallaron muchas veces por no entender la religión y los valores en los que la gente cree. No se puede construir un país ignorando la fe de su pueblo. La batalla cultural no es burlarse de las creencias ajenas, sino demostrar que el sistema actual es el verdadero enemigo de la familia y la comunidad.
-* **El Sentido Común como trinchera:** La batalla cultural es recuperar palabras como "esfuerzo", "meritocracia real" y "familia" de las manos de quienes las usan para justificar el hambre. 
-* **Contra el Individualismo:** El sistema nos quiere solos frente a la pantalla. Nosotros nos queremos organizados en el barrio, en el club y en la unidad básica del siglo XXI: la red colaborativa.
+* **La Fe es el motor:** Como dijo el Presidente Lula, "el socialismo falló por no entender la religión". Uno se levanta para ir a trabajar porque *cree*. Participar en la batalla cultural es, en esencia, la **reafirmación** de esos valores que se convierten en las creencias que nos mueven.
+
+* **La trampa del Conservadurismo:** La estrategia de la derecha es la reafirmación de valores pasados de época por miedo al cambio, nos quieren atados a un modelo de mundo que ya no existe para mantener en flote su "mercado". Nuestra tarea es reafirmar valores que miren al futuro: que el esfuerzo tenga recompensa real, que la tecnología nos devuelva tiempo y que la soberanía no se negocie.
+
+* **Creer para Hacer:** Si discutimos estos valores en cada rincón es porque creemos en algo. La batalla cultural es la disputa por qué creencias van a regir nuestro futuro, el **sálvese quien pueda** o la de la **Hacer Argentina Grande** ?
+
+* **Contra el Individualismo:** El sistema nos quiere solos frente a la pantalla. Nosotros nos queremos organizados en el barrio, en la plaza, en el club y en la unidad básica.
 
 ## 💬 Comentario final
 *No nos interesa convencer a los que ya tienen la vida resuelta o defienden la billetera de sus jefes para garantizar su comodidad. Queremos organizarnos. El Pueblo Argentino.*
