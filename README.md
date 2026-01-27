@@ -1,4 +1,4 @@
-# 🇦🇷 Proyecto Argentina Grande: Código para la Soberanía Humana
+# 📍 Proyecto Argentina Grande: Código para la Soberanía Humana 🇦🇷
 
 > "Basta de priorizar la renta sobre la vida."
 
