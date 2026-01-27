@@ -32,13 +32,17 @@ Si queres colaborar
 * ¿ Vale la pena una vida de sacrificio si al final de cuentas nos endeudamos con la ilusión de vivir mejor ?
 
 ### 🏠 [Vivienda y Alquiler](./VIVIENDA.md)
-* **Alquileres:** Los que deberían vivir del alquiler son los inquilinos, no los propietarios. Sus ganancias no pueden ser a costa de nuestras vidas tampoco.
+* **Alquileres:** Los que deberían vivir del alquiler son los inquilinos, no los propietarios.
+
 * ¿ Por qué hoy por hoy convertirse en dueño es un privilegio heredado y no fruto del esfuerzo ?
+
 * **Datos del INDEC:**  El 70% de los Argentinos cobra un sueldo por debajo de los 1.600.000 pesos. Osea el 80% de los Argentinos no llega a cubrir la canasta básica. Si sos el único ingreso de una familia y cobras menos de esa plata, sos pobre.
 
 ### 🌏 [Geopolítica y Soberanía](./SOBERANIA.md)
 * **La Liquidación de la Patria:** Mientras la Patagonia arde, el gobierno de Javier Milei mira para otro lado dejando que se queme nuestro futuro, apurados por entregar nuestra soberanía en Tierra del Fuego a los Estados Unidos.
+
 * **Traición a la Patria:** El establecimiento de bases de Estados Unidos en Tierra del Fuego no es una "inversión", es una alfombra roja al control extranjero sobre la Antártida y nuestros recursos marítimos.
+
 * **La Ultima Entrega:** Recuperar lo propio es la única forma de no ser una colonia de servicios. Es momento de oponerse a la entrega de nuestra soberanía.
 
 ---
@@ -47,7 +51,9 @@ Si queres colaborar
 No somos militantes electorales ni aplaudidores de dirigentes que viven alejados del pueblo vacacionando en Brasil o Miami. Es momento de sentar una nueva base para la Militancia.
 
 * **Basta de responsabilizar al militante de los errores de la dirigencia:** Si, el dirigente pone la cara, pero no pueden responsabilizar al que pone el lomo en la calle, no somos responsables de una conducción que jamás nos dió el volante. Bancamos los trapos, pero si la dirigencia nos da la espalda, nosotros se la daremos a ella. Somos tan importantes como quien nos dirige. 
+
 * **Formación para conducir:** Queremos que la formación no sea para aprender a repetir lo que nos dicen de arriba, sino para construir canales reales donde todos ganemos capacidad de conducción. Cualquiera podría ser la cabeza del movimiento, como una hydra.
+
 * **Fuera del margen:** Sabemos que en cuanto el "hacer" se sale del margen de aplaudir, los de arriba levantan la ceja. Que la levanten. Si la opción es ser cómplices del silencio o armar nuestra propia plataforma, elegimos lo segundo.
 
 No somos herederos de nadie. Queremos un país mejor para nuestros hijos. No pedimos que se deje de laburar sino que todos puedan laburar menos y vivir mejor.
