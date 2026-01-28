@@ -72,6 +72,10 @@ No somos militantes electorales ni aplaudidores de dirigentes que vacacionan en 
 
 ---
 
+Otras discusiones que queremos dar
+
+### 🏆 [La Estafa Moral de la Meritocracia](./MERITOCRACIA.md
+
 ## 💬 Comentario final
 *El "peor momento del peronismo" se tiene que traducir en un cambio, en adaptación. Si siguen creyendo que hay una irremediable línea divisora entre progresismo y peronismo, lo único que vamos a lograr va a ser discriminar cuando ambos movimientos se tratan de lo contrario.*
 
