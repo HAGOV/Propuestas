@@ -61,6 +61,8 @@ Desconexión Digital Obligatoria: Las redes sociales son el casino más grande d
 
 Recuperar el Territorio Real: Si las corporaciones tecnológicas pierden el acceso a nuestros hijos, el Estado y la comunidad deben recuperar el club de barrio, la biblioteca y el espacio público. Menos tiempo de pantalla es más tiempo de formación, deporte y militancia real.
 
+---
+
 ## ✊ Sobre la Militancia y el Poder
 No somos militantes electorales ni aplaudidores de dirigentes que vacacionan en Miami mientras el pueblo sufre. 
 
