@@ -63,7 +63,7 @@ Creemos que la Mayoría de Edad debería obtenerse recién a los 25. La neurocie
 
 ---
 
-## ✊ Sobre la Militancia y el Poder
+## ✊ Militancia y Poder
 No somos militantes electorales ni aplaudidores de dirigentes que vacacionan en Miami mientras el pueblo sufre. 
 
 * **Formación para conducir:** No queremos repetir consignas de arriba. Aprendemos de nuestros errores y queremos que cualquiera pueda ser la cabeza del movimiento, como una **hydra**. No para que sea "reemplazable" en el sentido de no tener peso, sino de justamente ganar ese peso y concentrarlo en la masa que conformamos.
