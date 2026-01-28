@@ -54,6 +54,13 @@ No venimos a imponer una moral de laboratorio. Entendemos que la cultura es el t
 
 ---
 
+## 🧠 Juventud y Soberanía Cognitiva
+Creemos que la Mayoría de Edad debería obtenerse recién a los 25. La neurociencia es clara: el cerebro humano termina de desarrollarse (especialmente la corteza prefrontal, encargada de la toma de decisiones y el control de impulsos) cerca de los 25 años. Discutamos si la autonomía legal debe coincidir con la madurez biológica para proteger a los jóvenes de las deudas sistémicas y decisiones permanentes manteniendolos también lejos de la presión del mercado.
+
+Desconexión Digital Obligatoria: Las redes sociales son el casino más grande del mundo y los menores son los jugadores más vulnerables. Proponemos la prohibición de acceso a redes sociales para menores de edad. No es censura, es defensa propia contra algoritmos diseñados para generar adicción, ansiedad y fragmentar la atención de la futura clase trabajadora.
+
+Recuperar el Territorio Real: Si las corporaciones tecnológicas pierden el acceso a nuestros hijos, el Estado y la comunidad deben recuperar el club de barrio, la biblioteca y el espacio público. Menos tiempo de pantalla es más tiempo de formación, deporte y militancia real.
+
 ## ✊ Sobre la Militancia y el Poder
 No somos militantes electorales ni aplaudidores de dirigentes que vacacionan en Miami mientras el pueblo sufre. 
 
