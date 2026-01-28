@@ -45,7 +45,7 @@ Hablá con nosotros. Queremos escucharte.
 
 ---
 
-## 🛡️ PARTICIPAR en la Batalla Cultural
+## 🛡️ Batalla Cultural y Religión
 No venimos a imponer una moral de laboratorio. Entendemos que la cultura es el terreno donde se asientan las creencias que mantienen a la sociedad en pie.
 
 * **La Fe es el motor:** Como dijo Lula, *"el socialismo falló por no entender la religión"*. Uno se levanta para trabajar porque **cree**. Nuestra tarea es adaptar los valores a la gente, no la gente a los manuales.
